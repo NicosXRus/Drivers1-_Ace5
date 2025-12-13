@@ -13,5 +13,3 @@ This is a module for OnePlus Ace 5 owners, for fix camera functionality, correct
 + Minimal version: 26402
 ## Compatibility
 Only OnePlus Ace 5 device (PKG110)
-### Donation:
-[YooMoney](https://yoomoney.ru/to/4100119120082099/1000)
