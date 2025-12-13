@@ -23,3 +23,6 @@ V1.4:
 
 V1.5:
 • Sources Drivers updated from ColorOS 16.0.1.300
+
+V1.6:
+• Sources Drivers updated from ColorOS 16.0.1.302
