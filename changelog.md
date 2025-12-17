@@ -3,3 +3,5 @@ V1.6:
 
 V1.7:
 • Sources Drivers updated from ColorOS 16.0.2.400 (Latest version)
+
+[Install a new version of the module only when you have installed a new version of the firmware OxygenOS]
