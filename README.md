@@ -13,6 +13,7 @@ This is a module for OnePlus Ace 5 owners, for fix camera functionality, correct
 + Minimal version: 26402
 
 ### APatch
+
 + Minimal version: 10568
 
 ## Compatibility
