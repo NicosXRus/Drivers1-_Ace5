@@ -11,5 +11,9 @@ This is a module for OnePlus Ace 5 owners, for fix camera functionality, correct
 ### Magisk
 
 + Minimal version: 26402
+
+### APatch
++ Minimal version: 10568
+
 ## Compatibility
 Only OnePlus Ace 5 device (PKG110)
