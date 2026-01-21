@@ -7,7 +7,8 @@ This is a module for OnePlus Ace 5 owners, for fix camera functionality, correct
 
 + Minimal KernelSU version: 10940
 + Minimal KernelSU Manager (ksud) version: 11575
-
++ It is recommended to use the metamodule
+  
 ### Magisk
 
 + Minimal version: 26402
