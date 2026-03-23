@@ -5,9 +5,11 @@ V1.7:
 • Sources Drivers updated from ColorOS 16.0.2.400
 
 V2.0
-• Sources Drivers updated from ColorOS 16.0.3.500 (Latest version)
+• Sources Drivers updated from ColorOS 16.0.3.500
 • Fix sound
-• Files removed from the module: /odm/lib64/hw/, left behind camera.oemlayer.so
+
+V2.1
+• Sources Drivers updated from ColorOS 16.0.5.701 (Latest version)
 
 ⚠️Warning: after updating the system to 16.0.3.5xx. Do not roll back the firmware after this!
 
