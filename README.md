@@ -18,6 +18,7 @@ This module-fix is for OnePlus Ace 5 users with OxygenOS 16. It fixes camera per
 ### Magisk
 
 + Minimal version/Минимальная версия: 26402
++ Use/используйте mountify
 
 ### APatch
 
