@@ -1,4 +1,4 @@
-## V2.3.13
+## V2.3.14
 - Sources Drivers updated from ColorOS 16.0.7.200 (16.1)
 - **Added the option to select the mounting method when installing the module**
 - > Legacy mode — Old mounting via manual bind. Doesn't work in OverlayFS.
@@ -6,7 +6,6 @@
 - > Mountify mode — designed for mounting in Mountify
 - Fixed switching modes using volume keys
 - Fix power_profile (Thanks @UIRAN23)
-- Added button Action, to remove the marker in case of updating the module in a new mount mode
 
 ## V2.1.4 (Updated 22 May, 2026)
 - Sources Drivers updated from ColorOS 16.0.5.701
