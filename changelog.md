@@ -6,6 +6,7 @@
 - > Mountify mode — designed for mounting in Mountify
 - Fixed switching modes using volume keys
 - Fix power_profile (Thanks @UIRAN23)
+- Added button Action, to remove the marker in case of updating the module in a new mount mode
 
 ## V2.1.4 (Updated 22 May, 2026)
 - Sources Drivers updated from ColorOS 16.0.5.701
