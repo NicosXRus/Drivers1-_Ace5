@@ -6,7 +6,7 @@
 - > Mountify mode — designed for mounting in Mountify
 - Fixed switching modes using volume keys
 - Fix power_profile (Thanks @UIRAN23)
-- Added translation into languages EN, RU, ES, ZN, UK, HY
+- Added translation into languages EN, RU, ES, ZN, HY
 
 ## V2.1.4 (Updated 22 May, 2026)
 - Sources Drivers updated from ColorOS 16.0.5.701
