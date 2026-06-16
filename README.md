@@ -2,6 +2,7 @@
 <a href="https://t.me/OnePlus13R_Ace5"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a>
 
 # Original Repo: [Devone127](https://github.com/Devone127/Ace-5-Drivers) ❤️
+# 1488 Branch ->>> [1488](https://github.com/NicosXRus/Drivers1-_Ace5/tree/1488)
 
 ### 🇬🇧 English:
 This module-fix is for OnePlus Ace 5 users with OxygenOS 16. It fixes camera performance, correct battery capacity display, and the correct device name.
