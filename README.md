@@ -39,3 +39,6 @@ Esta solución es para usuarios de OnePlus Ace 5 con OxygenOS 16. Soluciona prob
 
 ## Compatibility
 Only OnePlus Ace 5 device (PKG110)
+
+## ❤❤❤❤
+От @NicosXRus и @RYM-REQUIEM
