@@ -1,3 +1,8 @@
+## V2.4
+- Sources Drivers updated from ColorOS 16.0.8.300
+- Release from @UIRAN23
+- New features and fixes from module version 2.3.17 have been transferred
+
 ## V2.3.17 (Updated 16 June, 2026)
 - Sources Drivers updated from ColorOS 16.0.7.200
 -  **Mountify | FolkMount API** supported

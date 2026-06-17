@@ -2,6 +2,7 @@
 <a href="https://t.me/OnePlus13R_Ace5"><img src="https://img.shields.io/badge/Telegram-Channel-blue?longCache=true&style=flat"></a>
 
 # Original Repo: [Devone127](https://github.com/Devone127/Ace-5-Drivers) ❤️
+# 1488 Branch ->>> [1488](https://github.com/NicosXRus/Drivers1-_Ace5/tree/1488)
 
 ### 🇬🇧 English:
 This module-fix is for OnePlus Ace 5 users with OxygenOS 16. It fixes camera performance, correct battery capacity display, and the correct device name.
@@ -23,7 +24,9 @@ This module-fix is for OnePlus Ace 5 users with OxygenOS 16. It fixes camera per
 
 ### 🇪🇸 Español:
 Esta solución es para usuarios de OnePlus Ace 5 con OxygenOS 16. Soluciona problemas con la cámara, la visualización de la capacidad de la batería y el nombre del dispositivo.
+⚠️🇷🇺  Предупреждение: Вместе с основной веткой развивается суб-ветка 1488-модуль может содержать в себе нецензурную лексику и NSFW  контент. Ставить на свой страх и риск
 
+⚠️ 🇺🇸 Warning: Along with the main branch, the 1488 module sub-branch may contain obscene language and NSFW content. Bet at your own risk 
 
 ## Requirements
 ### KernelSU
