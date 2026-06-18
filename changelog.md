@@ -1,5 +1,5 @@
 ## V2.4.2 (Updated 18 June, 2026)
-- New mount mode - Native Overlay, which creates and mounts an IMG image as an overlay. It does not require metamodules and disabling the "Unmount modules by default" feature in the KSU
+- New mount mode - **Native Overlay**, which creates and mounts an IMG image as an overlay. It does not require metamodules and disabling the "Unmount modules by default" feature in the KSU
 - Correction of minor bugs
 
 ## V2.3.17 (Updated 16 June, 2026)
