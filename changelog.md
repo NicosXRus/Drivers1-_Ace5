@@ -6,3 +6,13 @@ New mount mode - Native Overlay, which creates and mounts an IMG image as an ove
 - Release from @UIRAN23
 - New features and fixes from module version 2.3.17 have been transferred
 - Disasble logging
+- 
+## V1488-3
+- Sources Drivers updated from ColorOS 16.0.9.400
+
+**Changes in the module itself:**
+> - Installation functions have been moved to external scripts
+> - The "New" installation mode has been adjusted
+> - The "OverlayNative" installation mode has been adjusted
+> - Added banners (downloaded from my GitHub repository)
+> - i love nikolai 3❤️ 
