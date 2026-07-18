@@ -1,10 +1,8 @@
-## V2.5
+## V2.5.1
 - Sources Drivers updated from ColorOS 16.0.9.400
-
-**Changes in the module itself:**
+> - The "New" and "Mountify" mounting modes have been removed
+> - Improved OverlayNative
 > - Installation functions have been moved to external scripts
-> - The "New" installation mode has been adjusted
-> - The "OverlayNative" installation mode has been adjusted
 > - Added banners (downloaded from my GitHub repository)
 
 ## V2.4.3 (Updated 20 June, 2026)
