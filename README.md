@@ -9,6 +9,7 @@ This module-fix is for OnePlus Ace 5 users with OxygenOS 16. It fixes camera per
 
 ### 🇷🇺 Русский:
 Этот модуль-фикс предназначен для пользователей OnePlus Ace 5 с OxygenOS 16. Исправляет: работоспособность камеры, отображение ёмкости батареи и название устройства.
+Цз
 
 ### 🇺🇦 Українська:
 Цей модуль-фікс призначений для користувачів OnePlus Ace 5 із OxygenOS 16. Виправляє: працездатність камери, відображення ємності батареї та назву пристрою.
@@ -27,10 +28,10 @@ Esta solución es para usuarios de OnePlus Ace 5 con OxygenOS 16. Soluciona prob
 
 
 ## Requirements
+
 ### KernelSU
 + Minimal KernelSU version: 10940
 + Minimal KernelSU Manager (ksud): 11575
-+ Metamodule
   
 ### Magisk
 + Minimal version: 26402
