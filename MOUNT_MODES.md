@@ -24,6 +24,8 @@
 * **Плюсы:** Высокая степень сжатия LZ4HC, чистая структура VFS, защита файлов модуля от перезаписи на уровне ядра.
 * **Минусы:** Требует чуть больше времени на сборку при установке; необходима поддержка EROFS и OverlayFS в ядре.
 
+> 💡 **Рекомендация:** Используйте **OverlayNative** как основной и наиболее эффективный режим для современных устройств. Переходите на **Legacy** только в случае проблем с работой OverlayFS на кастомных ядрах.
+
 ---
 
 ## <a id="english"></a>🇬🇧 English
@@ -47,6 +49,8 @@
 * **How it works:** Packs module files into a compressed EROFS image (`odm.img`), mounts it to `/mnt/ace5dv/odm`, and applies OverlayFS layers over `/odm`. Uses a dynamic `empty` directory to isolate target folders.
 * **Pros:** Significant storage savings via LZ4HC, clean VFS structure, read-only kernel-level protection.
 * **Cons:** Requires a few seconds to compile the image during installation; needs kernel support for EROFS/OverlayFS.
+
+> 💡 **Recommendation:** Use **OverlayNative** as the primary and most efficient mode for ColorOS / OxygenOS. Switch to **Legacy** only if you encounter issues with OverlayFS on custom kernels.
 
 ---
 
@@ -72,6 +76,8 @@
 * **Ventajas:** Gran ahorro de espacio con LZ4HC, estructura VFS limpia, protección de archivos a nivel de núcleo.
 * **Desventajas:** Toma unos segundos compilar la imagen durante la instalación; requiere soporte del núcleo.
 
+> 💡 **Recomendación:** Utilice **OverlayNative** como modo principal y más eficiente para ColorOS / OxygenOS. Cambie a **Legacy** solo si tiene problemas con OverlayFS en kernels personalizados.
+
 ---
 
 ## <a id="中文"></a>🇨🇳 中文
@@ -96,6 +102,8 @@
 * **优点：** 通过 LZ4HC 显著节省存储空间，保持 VFS 干净整洁，内核层只读保护。
 * **缺点：** 安装过程中需要几秒钟编译镜像；需要内核支持 EROFS 与 OverlayFS。
 
+> 💡 **建议：** 推荐优先使用 **OverlayNative**，这是适用于 ColorOS / OxygenOS 的主要且最高效的模式。仅在自定义内核遇到 OverlayFS 问题时才切换至 **Legacy**。
+
 ---
 
 ## <a id="日本語"></a>🇯🇵 日本語
@@ -111,7 +119,7 @@
 | **互換性** | 完全な互換性 (全カーネル) | 互換カーネル (EROFS + OverlayFS サポートが必要) |
 
 #### 1. 💿 Legacy モード
-* **仕組み:** `mount --bind` を使用して、特定のファイルおよびフォルダを直接置き換えます。
+* **仕組み:** `mount --bind` を使用して、特定のファイルおよびフォルダ stray を直接置き換えます。
 * **メリット:** すべてのカーネルで確実に動作し、インストール時のコンパイル処理が不要です。
 * **デメリット:** ファイルやフォルダごとにマウント記述が必要で、ストレージ容量をより多く消費します。
 
@@ -119,6 +127,8 @@
 * **仕組み:** ファイルを圧縮 EROFS イメージ (`odm.img`) にパックし、`/mnt/ace5dv/odm` にマウントして OverlayFS レイヤーを `/odm` に適用します。
 * **メリット:** LZ4HC 圧縮による容量削減、クリーンな VFS 構造、カーネルレベルでの書き込み保護。
 * **デメリット:** インストール時にイメージ構築の時間が数秒かかります。カーネルのサポートが必要です。
+
+> 💡 **推奨：** ColorOS / OxygenOS に最適なメインモードである **OverlayNative** の使用を推奨します。カスタムカーネル等で OverlayFS に問題が発生した場合のみ **Legacy** に切り替えてください。
 
 ---
 
@@ -144,6 +154,8 @@
 * **Плюси:** Значна економія пам'яті завдяки LZ4HC, чиста структура VFS, захист файлів на рівні ядра.
 * **Мінуси:** Потребує кількох секунд для збірки образу при встановленні; необхідна підтримка в ядрі.
 
+> 💡 **Рекомендація:** Використовуйте **OverlayNative** як основний та найефективніший режим для прошивок ColorOS / OxygenOS. Перемикайтеся на **Legacy** лише у разі проблем із роботою OverlayFS на кастомних ядрах.
+
 ---
 
 ## <a id="հայերեն"></a>🇦🇲 Հայերեն
@@ -167,3 +179,6 @@
 * **Աշխատանքի սկզբունքը:** Ֆայլերը սեղմում է EROFS պատկերի մեջ (`odm.img`), տեղադրում `/mnt/ace5dv/odm`-ում և OverlayFS շերտերը տարածում `/odm` բաժնի վրա:
 * **Առավելությունները:** Հիշողության զգալի տնտեսում LZ4HC-ի շնորհիվ, մաքուր VFS կառուցվածք, պաշտպանություն միջուկի մակարդակով:
 * **Թերությունները:** Պահանջում է մի քանի վայրկյան պատկերը հավաքելու համար; պահանջում է EROFS և OverlayFS աջակցություն միջուկում:
+
+> 💡 **Խորհուրդ:** Օգտագործեք **OverlayNative**, քանի որ դա ColorOS / OxygenOS-ի համար հիմնական և ամենաարդյունավետ ռեժիմն է: Անցեք **Legacy**-ին միայն այն դեպքում, եթե կաստոմ միջուկների վրա OverlayFS-ի հետ կապված խնդիրներ ունեք:
+> 
