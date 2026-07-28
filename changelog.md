@@ -1,9 +1,7 @@
-## V2.5.1 (Updated 18 Jule, 2026)
+## V2.5.2 (Updated 28 Jule, 2026)
 - Sources Drivers updated from ColorOS 16.0.9.400
-> - The "New" and "Mountify" mounting modes have been removed
-> - Improved OverlayNative
-> - Installation functions have been moved to external scripts
-> - Added banners (downloaded from my GitHub repository) for version 2.5>
+> - Fixed a bug with purple photos in Legacy mode
+> - Happy birthday, @UIRAN23!
 
 ## V2.4.4 (Updated 22 Jule, 2026)
 - Sources Drivers updated from ColorOS 16.0.8.300
