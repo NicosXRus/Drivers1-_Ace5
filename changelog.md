@@ -1,3 +1,13 @@
+## V2.6
+- Sources Drivers updated from ColorOS 16.0.10.500
+
+> - Mountify mounting mode has been returned.
+> - OverlayNative is now called OverlayImg
+> - Added a new mounting mode—OverlayData. No IMG image build required.
+> - Added splashes (Russian users have their own)
+> - Automated Legacy mode
+> - Added translations into: German, Polish, Arabic, and Hindi
+
 ## V2.5.2 (Updated 28 Jule, 2026)
 - Sources Drivers updated from ColorOS 16.0.9.400
 > - Fixed a bug with purple photos in Legacy mode
