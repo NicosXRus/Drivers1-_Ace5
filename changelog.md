@@ -8,6 +8,8 @@
 > - Automated Legacy mode
 > - Added translations into: German, Polish, Arabic, and Hindi
 
+# Old Versions
+
 ## V2.5.2 (Updated 28 Jule, 2026)
 - Sources Drivers updated from ColorOS 16.0.9.400
 > - Fixed a bug with purple photos in Legacy mode
