@@ -1,9 +1,9 @@
 {
   "version": "v2.6.2dev",
   "versionCode": 20060200,
-  "os": "ColorOS",
-  "num": "17",
-  "image": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/dev/webup/release/cos17.webp",
+  "zipUrl": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/download/release/Ace5DVMOD2_8a.zip",
   "changelog": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/main/changelog.md",
-  "zipUrl": "https://github.com/NicosXRus/Drivers1-_Ace5/releases/download/500_16.1/Ace5DV2_8a.zip"
+  "image": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/dev/webup/release/cos17.webp",
+  "os": "ColorOS",
+  "num": "17"
 }
