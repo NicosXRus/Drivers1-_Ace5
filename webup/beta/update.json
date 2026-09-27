@@ -1,0 +1,9 @@
+{
+  "version": "v2.6.2dev",
+  "versionCode": 20060200,
+  "zipUrl": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/download/release/Ace5DV2_8a.zip",
+  "changelog": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/main/changelog.md",
+  "image": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/dev/webup/release/cos17.webp",
+  "os": "ColorOS",
+  "num": "17"
+}
