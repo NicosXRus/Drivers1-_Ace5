@@ -4,6 +4,6 @@
   "zipUrl": "https://github.com/NicosXRus/Drivers1-_Ace5/releases/download/500_16.1_2/Ace5DV2_8dev1.zip",
   "changelog": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/refs/heads/main/webup/beta/changelog.md",
   "image": "",
-  "os": "",
-  "num": ""
+  "os": "OxygenOS",
+  "num": "16"
 }
