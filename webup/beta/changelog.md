@@ -1,4 +1,4 @@
 ## Станьте бета-тестером нашего модуля
-# v2.8 (Developer version)
-- Работаем над WebUI
-- Драйверы версии ColorOS 16.0.10.500 (совместимы с OxygenOS 16.0.10.600)
+# v3.0 (DevPrivate)
+- Sources Drivers updated from ColorOS CN 17.0.0.200
+- New WebUI
