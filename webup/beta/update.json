@@ -1,7 +1,7 @@
 {
-  "version": "v2.8beta5",
-  "versionCode": 20080005,
-  "zipUrl": "https://github.com/NicosXRus/Drivers1-_Ace5/releases/download/500_16.1_2/Ace5DV2_8beta5.zip",
+  "version": "v3.0Beta",
+  "versionCode": 30000001,
+  "zipUrl": "https://github.com/NicosXRus/Drivers1-_Ace5/releases/download/200_17/Ace5DV3_0beta1.zip",
   "changelog": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/refs/heads/main/webup/beta/changelog.md",
   "image": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/refs/heads/main/webup/release/cos17.webp",
   "os": "ColorOS",
