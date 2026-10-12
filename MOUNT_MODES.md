@@ -1,7 +1,5 @@
 # ⚙️ Mount Modes Documentation / Документация режимов монтирования
 
-This document describes the mount modes implemented in the current Ace5DV2 package. The implementation in the installation scripts is the source of truth; kernel and provider capabilities can vary by device.
-
 ## Navigation / Навигация
 
 * 🇬🇧 [English](#english)
