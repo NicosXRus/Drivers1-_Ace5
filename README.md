@@ -11,7 +11,7 @@ Read the module description in your native language in [**DESCRIPTIONS.md**](DES
 
 ## ⚙️ Mount Modes / Режимы монтирования
 
-Select your language to read about available mounting modes (Legacy, OverlayImg, OverlayData, Mountify):
+Select your language to read about available mounting modes (Legacy, OverlayImg, OverlayData, MetaModule):
 
 * 🇬🇧 [English](MOUNT_MODES.md#english)
 * 🇷🇺 [Русский](MOUNT_MODES.md#русский)
