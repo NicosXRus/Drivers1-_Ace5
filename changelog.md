@@ -1,4 +1,4 @@
-## New version - 2.8.2
+## New version - 2.8.3
 - Sources Drivers updated from ColorOS 16.0.10.500 (compatible with 16.0.10.600)
 - New WebUI!
 - New mounting mode - Metamodule (auto)
