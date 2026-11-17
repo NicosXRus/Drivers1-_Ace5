@@ -1,4 +1,5 @@
-## 3.0.5.28
+## 3.0.6.11
+-Fix hardcode Ace 5/6T (critical fix)
 
 - Sources Drivers updated from ColorOS CN 17.0.0.105
 - Updated structure module
