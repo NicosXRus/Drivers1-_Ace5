@@ -1,6 +1,6 @@
-## 3.0.6.12
+## 3.0.6.13
 - Fix hardcode Ace 5/6T (critical fix)
-- Fix Legacy, OverlayIMG/Data
+- Fix Legacy, removed OverlayData
 
 - Sources Drivers updated from ColorOS CN 17.0.0.105
 - Updated structure module
