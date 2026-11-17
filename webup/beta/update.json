@@ -1,7 +1,7 @@
 {
-  "version": "3.0.6.12",
-  "versionCode": 30000612,
-  "zipUrl": "https://github.com/NicosXRus/Drivers1-_Ace5/releases/download/100_17/Ace5DV3_0_6_12-beta.zip",
+  "version": "3.0.6.13",
+  "versionCode": 30000613,
+  "zipUrl": "https://github.com/NicosXRus/Drivers1-_Ace5/releases/download/100_17/Ace5DV3_0_6_13-beta.zip",
   "changelog": "https://raw.githubusercontent.com/NicosXRus/Drivers1-_Ace5/refs/heads/main/webup/beta/changelog.md",
   "image": "",
   "os": "ColorOS",
