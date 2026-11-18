@@ -3,13 +3,13 @@
 
 # Original Repo: [Devone127](https://github.com/Devone127/Ace-5-Drivers) ❤️
 
-## 🌐 Module Descriptions / Описание модуля
+## 🌐 Module Descriptions
 
 Read the module description in your native language in [**DESCRIPTIONS.md**](DESCRIPTIONS.md).
 
 ---
 
-## ⚙️ Mount Modes / Режимы монтирования
+## ⚙️ Mount Modes
 
 Select your language to read about available mounting modes (Legacy, OverlayImg, OverlayData, MetaModule):
 
